@@ -44,6 +44,8 @@ collect the awesome  DeepLearning  lists in GitHub
 * [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 * [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars)
 
+#### Motion Plan
+* [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) 
 
 
 
