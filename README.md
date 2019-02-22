@@ -34,18 +34,30 @@ collect the awesome  DeepLearning  lists in GitHub
 #### Face Recognition
 * [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
-#### GAN
+## GAN
 * [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+* [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+
+## Reinforcement Learning
+#### Deep Reinforcement Learning
+* [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+#### Multi-Agent Reinforcement Learning 
+* [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
 
 
 ## autonomous vehicle
 #### Autonomous Vehicles
+* [ZRZheng/Autonomous_Vehicle_Paper_Reading_List](https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List)
 * [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 * [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars)
 
 #### Motion Plan
 * [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) 
+
+## AutoML
+* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)
 
 
 
