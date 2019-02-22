@@ -55,6 +55,8 @@ collect the awesome  DeepLearning  lists in GitHub
 
 #### Motion Plan
 * [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) 
+#### Robotics
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
 ## AutoML
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)
