@@ -10,13 +10,13 @@ collect the awesome  DeepLearning  lists in GitHub
 * [fendouai/Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) :star: 0.9K (中文版)
 #### PyTorch
 * [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  :star: 5.6K
-* [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch)  
+* [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch)  :star: 0.2K 
 
 #### MXNet
-* [chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
+* [chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet) :star:0.6K
 
 ## Machine Learning
-* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star: 38.4K
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star: 8.7K
 * [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star: 3.8K
 * [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) :star: 2.6K (中文版)
@@ -32,28 +32,28 @@ collect the awesome  DeepLearning  lists in GitHub
 * [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) :star: 7.9K
 * [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) :star: 9.6K （一年前的更新内容）
 #### Image Classification
-* [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+* [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) :star: 0.2K
 #### Object Detection
+* [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) :star: 3.7K
 * [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) :star: 2.4K
-* [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
 
 #### Semantic Segmentation
 * [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) :star: 3.2K
 #### Object Track
-* [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list)
-* [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results)
+* [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) :star: 0.3K
+* [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results) :star: 1.7K
 
 #### Human Pose Estimation
-* [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
+* [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) :star: 0.5K
 #### Face Recognition
-* [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+* [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :star: 0.5K
 #### 3D Reconstruction
 * [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) :star: 1.5K
 
 ## GAN
+* [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers) :star: 4.3K
 * [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) :star: 2.4K
 * [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) :star:1.4K
-* [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
 ## NLP
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp) :star: 7.7K
@@ -63,24 +63,24 @@ collect the awesome  DeepLearning  lists in GitHub
 ## Reinforcement Learning
 * [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) :star: 5.2K
 #### Deep Reinforcement Learning
-* [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+* [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) :star:1.7K
 #### Multi-Agent Reinforcement Learning 
-* [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
+* [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers) :star:1.0K
 
 
 ## autonomous vehicle
 #### Autonomous Vehicles
-* [ZRZheng/Autonomous_Vehicle_Paper_Reading_List](https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List)
-* [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
-* [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars)
+* [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :star: 0.79K 
+* [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) :star: 0.14K
+* [ZRZheng/Autonomous_Vehicle_Paper_Reading_List](https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List) :star: 0.052K
 
 #### Motion Plan
-* [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) 
+* [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning)  :star: 0.06K
 #### Robotics
-* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+* [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) :star: 4.6K
 
 ## AutoML
-* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)
+* [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) :star: 0.7K
 ## AI
 * [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4.5K
 
