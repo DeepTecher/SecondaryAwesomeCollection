@@ -1,5 +1,5 @@
 # SecondaryAwesomeCollection
-collect the awesome  DeepLearning  lists in GitHub
+Collect the awesome  DeepLearning  lists in GitHub
 ## Courses or Paper
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)  :star: 29.9K
 * [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)  :star: 18K
@@ -28,7 +28,7 @@ collect the awesome  DeepLearning  lists in GitHub
 * [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) :star: 1.8K
 
 
-## computer version 
+## Computer version 
 * [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) :star: 7.9K
 * [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) :star: 9.6K （一年前的更新内容）
 #### Image Classification
