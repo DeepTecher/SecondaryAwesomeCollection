@@ -60,6 +60,7 @@ Collect the awesome  DeepLearning  lists in GitHub
 * [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) :star: 3.3K  
 
 ## Meta Learning
+* [dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) :star:0.17K
 * [gopala-kr/meta-learning](https://github.com/gopala-kr/meta-learning)
 
 
