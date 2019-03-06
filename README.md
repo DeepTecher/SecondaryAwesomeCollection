@@ -57,7 +57,10 @@ Collect the awesome  DeepLearning  lists in GitHub
 
 ## NLP
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp) :star: 7.7K
-* [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) :star: 3.3K
+* [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) :star: 3.3K  
+
+## Meta Learning
+* [gopala-kr/meta-learning](https://github.com/gopala-kr/meta-learning)
 
 
 ## Reinforcement Learning
