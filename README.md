@@ -4,6 +4,9 @@ Collect the awesome  DeepLearning  lists in GitHub
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)  :star: 29.9K
 * [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)  :star: 18K
 
+## AI
+* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4.5K
+
 ## Learning DeepLearning Framework
 #### TensorFlow
 * [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)   :star: 13.7K
@@ -40,13 +43,18 @@ Collect the awesome  DeepLearning  lists in GitHub
 #### Semantic Segmentation
 * [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) :star: 3.2K
 #### Object Track
+* [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results) :star: 1.7K  
 * [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) :star: 0.3K
-* [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results) :star: 1.7K
+
 
 #### Human Pose Estimation
 * [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) :star: 0.5K
 #### Face Recognition
 * [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :star: 0.5K
+
+
+## 3D
+* [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) :star:2.66K
 #### 3D Reconstruction
 * [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) :star: 1.5K
 
@@ -69,11 +77,10 @@ Collect the awesome  DeepLearning  lists in GitHub
 #### Deep Reinforcement Learning
 * [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) :star:1.7K
 #### Multi-Agent Reinforcement Learning 
-* [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers) :star:1.0K
+* [LantaoYu/MARL-Papers](https://github.com/LantaoYu/MARL-Papers) :star:1.0K  
 
 
-## autonomous vehicle
-#### Autonomous Vehicles
+## Autonomous Vehicles
 * [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :star: 0.79K 
 * [philbort/awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) :star: 0.14K
 * [ZRZheng/Autonomous_Vehicle_Paper_Reading_List](https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List) :star: 0.052K
@@ -85,8 +92,7 @@ Collect the awesome  DeepLearning  lists in GitHub
 
 ## AutoML
 * [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) :star: 0.7K
-## AI
-* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4.5K
+
 
 
 
