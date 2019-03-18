@@ -1,7 +1,9 @@
 # SecondaryAwesomeCollection
 Collect the awesome  DeepLearning  lists in GitHub
 ## Courses or Paper
-* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)  :star: 29.9K
+* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)  :star: 29.9K  (Comment : Course for CS)
+* [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) :star: 4.4K (Comment : Course for Deep Learning, 
+Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire: :fire:)
 * [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)  :star: 18K
 
 ## Learning DeepLearning Framework
