@@ -54,7 +54,8 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 #### Face Recognition
 * [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) :star: 0.5K
 
-
+## Transfer Learning
+* [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) :star: 2.8K
 ## 3D
 * [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) :star:2.66K
 #### 3D Reconstruction
