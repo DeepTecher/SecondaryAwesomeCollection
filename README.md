@@ -62,6 +62,7 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 * [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) :star: 1.5K
 
 ## GAN
+* [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) :star: 5.1K
 * [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers) :star: 4.3K
 * [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) :star: 2.4K
 * [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) :star:1.4K
