@@ -61,6 +61,8 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 #### 3D Reconstruction
 * [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list) :star: 1.5K
 
+## RNN
+* [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) :star: 5.3K
 ## GAN
 * [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) :star: 5.1K
 * [zhangqianhui/AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers) :star: 4.3K
