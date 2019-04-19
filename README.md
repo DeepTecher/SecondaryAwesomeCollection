@@ -6,8 +6,6 @@ Collect the awesome  DeepLearning  lists in GitHub
 Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire: :fire:)
 * [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)  :star: 18K
 
-## AI
-* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4.5K
 
 ## Learning DeepLearning Framework
 #### TensorFlow
@@ -22,11 +20,14 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 
 ## Machine Learning
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) :star: 38.4K
+* [apachecn/AiLearning](https://github.com/apachecn/AiLearning) :star: 10K （中文）
 * [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) :star: 8.7K
 * [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) :star: 3.8K
 * [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) :star: 2.6K (中文版)
 * [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) :star: 1.2K
 
+## AI
+* [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) :star:4.5K
 
 ## Deep Learning
 * [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) :star: 11.3K
