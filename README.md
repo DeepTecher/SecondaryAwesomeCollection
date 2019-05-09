@@ -14,6 +14,7 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 #### PyTorch
 * [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  :star: 5.6K
 * [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch)  :star: 0.2K 
+* [INTERMT/Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) :star: 0.16K (中文)
 
 #### MXNet
 * [chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet) :star:0.6K
