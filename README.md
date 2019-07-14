@@ -6,6 +6,8 @@ Collect the awesome  DeepLearning  lists in GitHub
 Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire: :fire:)
 * [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)  :star: 18K
 
+*[Sophia-11/Awesome-CV-Paper-Review](https://github.com/Sophia-11/Awesome-CV-Paper-Review) collect the paper about `image classfication` & `object detection`
+
 
 ## Learning DeepLearning Framework
 #### TensorFlow
@@ -49,6 +51,9 @@ Reinforcement Learning, Machine Learning, Computer Vision, and NLP :fire: :fire:
 #### Object Track
 * [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results) :star: 1.7K  
 * [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) :star: 0.3K
+
+#### Awesome Fine-Grained Image Analysis
+* [html:weixiushen/Awesome_FGIA](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html)
 
 
 #### Human Pose Estimation
